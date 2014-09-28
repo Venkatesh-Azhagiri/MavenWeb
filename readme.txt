@@ -1,0 +1,1 @@
+Navigate to this project folder in command prompt and give mvn compile afterwards mvn package
